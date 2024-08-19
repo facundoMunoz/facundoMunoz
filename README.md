@@ -1,7 +1,7 @@
 <!-- SUMMARY -->
 <div align="center">
 
-[![wallpaper](./img/wallpaper.png)](https://github.com/facundoMunoz)
+[![wallpaper](./img/banner.png)](https://github.com/facundoMunoz)
 
 # Hello world! I'm Facu :wave:
 
